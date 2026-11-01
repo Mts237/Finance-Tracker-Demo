@@ -1,0 +1,18 @@
+# Finance Tracker
+
+## Context
+Personal project for my application to a CFC apprenticeship (IT specialist,
+application development). I must be able to explain every part of the code
+in an interview.
+
+## Rules
+- Only HTML, CSS and simple JavaScript, with no framework and no server.
+- Readable code, with comments in French that explain the why.
+- Explain what you change after each modification, in simple terms.
+- No em dashes in any text.
+- Data stays in the browser (localStorage).
+- Currency: CHF. Interface in French.
+
+## Design
+- Colors and spacing are defined in the :root variables (style.css).
+- Clean, simple style, readable on phone and on desktop.
